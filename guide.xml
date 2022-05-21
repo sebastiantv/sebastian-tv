@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <icon src="../canais/1597773452.gif|../canais/1642108923.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
