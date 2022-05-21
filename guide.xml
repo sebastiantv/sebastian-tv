@@ -2,7 +2,19 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TNT">
     <display-name lang="pt">TNT</display-name>
-    <icon src="../canais/1623800882.gif" />
+    <icon src="../canais/1644943436.gif" />
     <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
 </tv>
